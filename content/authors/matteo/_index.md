@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Villosio Matteo
+name: Matteo Villosio
 
 # Username (this should match the folder name)
 authors:
