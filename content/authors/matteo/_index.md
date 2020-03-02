@@ -66,6 +66,13 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/tsadoq/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matteo-villosio/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
