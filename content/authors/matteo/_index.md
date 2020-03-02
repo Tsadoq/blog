@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: /cv.pdf
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/tsadoq/
