@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Cambridge ESOL Examinations"
+  organization_url = "https://www.cambridgeenglish.org/"
+  title = "Certificate in Advanced English C1"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "mailto:matteo.villosio@protonmail.com?subject=CAE certificate&body=Dear Matteo Villosio,\n\n I'd like to have a copy of your CAE certificate"
+  date_start = "2016-12-01"
+  date_end = ""
+  description = "C1 Advanced looks to prove high-level achievement in English, and is designed for learners preparing for university or professional life. It is focused on Level C1 of the Common European Framework of Reference for Languages (CEFR)."
+
+[[item]]
+  organization = "Piedmont Regional Government"
+  organization_url = "https://www.regione.piemonte.it/web/"
+  title = "Regional Contemporary History Contest"
+  url = ""
+  certificate_url = "http://www.cr.piemonte.it/web/images/stories/im/2014/aprile/viaggio_carpi.pdf"
+  date_start = "2014-03-01"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++

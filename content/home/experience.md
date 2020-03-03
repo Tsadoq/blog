@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Database Designer and Front-end Developer Intern"
+  company = "EisWorld"
+  company_url = "http://www.orbyta.it/"
+  location = "Italy"
+  date_start = "2019-04-01"
+  date_end = "2019-07-01"
   description = """
+  
+  Now Orbyta - **Italian consultancy firm offering solutions to many telcom and automotive giants**
+
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Business Analysis 
+  * Database design
+  * Database development and Optimization
+  * Front-end development
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "News Writer"
+  company = "Gec.gg"
+  company_url = "https://www.gec.gg/"
+  location = "Italy"
+  date_start = "2015-01-01"
+  date_end = "2015-05-01"
+  description = """
+  News Writer regarding the eSport Scene.
+  """
+
+[[experience]]
+  title = "Assistant Librarian"
+  company = "Carlo Levi City Library"
+  company_url = "https://www.comune.torrepellice.to.it/aria_cms.php?page=306"
+  location = "Italy"
+  date_start = "2012-01-01"
+  date_end = "2014-01-01"
+  description = """
+  
+  Responsibilities include:
+  * Assistance for the user of the library
+  * Preparation of user manual for the tools available (eBooks) 
+  * Cataloguing of Books
+
+  """
 
 +++
