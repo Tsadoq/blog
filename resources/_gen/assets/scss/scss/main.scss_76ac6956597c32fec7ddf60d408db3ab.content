@@ -9133,6 +9133,9 @@ html, body {
   display: flex; }
 
 code {
+  font-size: 53%; }
+
+.hero-container .hero-title h1 {
   overflow: hidden;
   border-right: 0.1em solid #8be9fd;
   white-space: nowrap;
