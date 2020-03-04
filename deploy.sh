@@ -1,6 +1,8 @@
 rm -r public/
 git submodule add -f -b master https://github.com/tsadoq/tsadoq.github.io.git public
 git add .
+git fetch
+git pull
 git commit -m "Initial commit"
 git push -u origin master
 hugo
