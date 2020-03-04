@@ -84,7 +84,7 @@ user_groups:
 - Visitors
 ---
 
-Matteo here! I'm **Matteo Villosio**, Computer engineer and currently Data Science M.Sc. Student @ [Polito](https://www.polito.it/index.php?lang=en). I attained my bachelor in Computer Engineering after graduating from the Polytechnic University of Turin. During my B.Sc. I followed multiple summer courses in the UK and the US to improve my knowledge of English language and society. I moreover attended courses about history of the middle east to broad my horizons outside my academic field.
+Matteo here! I'm **Matteo Villosio**, Computer Engineer and currently Data Science M.Sc. Student @ [Polito](https://www.polito.it/index.php?lang=en). I attained my bachelor in Computer Engineering after graduating from the Polytechnic University of Turin. During my B.Sc. I followed multiple summer courses in the UK and the US to improve my knowledge of English language and society. I moreover attended courses about history of the middle east to broad my horizons outside my academic field.
 
 I interned in an IT consultancy firm, EisWorld, working on the development of a multiplatform webapp for compliance management.
 
